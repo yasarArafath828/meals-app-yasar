@@ -1,0 +1,28 @@
+.First-Page {
+    padding: 5px;
+    align-items: center;
+    display: flex;
+    background: #42f5b6;
+    align-content: stretch;
+    height: 100vh;
+}
+.Login-Class {
+    align-items: flex-start;
+    padding: 5px;
+    background: #e1e7f0;
+    height: 75vh;
+}
+.Login-Button {
+    margin: 220px;
+    background-color: #4CAF50; /* Green */
+    border-radius: 12px;
+    color: white;
+    padding: 15px 32px;
+    display: flex;
+    width: 200px;
+    text-align: center;
+    font-size: 16px;
+}
+.Header-Button {
+    margin-left: 800px;
+}
